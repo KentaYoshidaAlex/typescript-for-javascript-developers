@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/KentaYoshidaAlex/typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-node": "^9.1.1",
     "typescript": "^3.7.5"
   },
   "dependencies": {
@@ -103,7 +104,6 @@
     "to-regex-range": "^5.0.1",
     "tree-kill": "^1.2.2",
     "trim-newlines": "^1.0.0",
-    "ts-node": "^9.1.1",
     "ts-node-dev": "^1.1.6",
     "tsconfig": "^7.0.0",
     "validate-npm-package-license": "^3.0.4",
